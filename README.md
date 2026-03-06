@@ -1,1 +1,2 @@
-基于https://github.com/leeyoshinari/karaoke项目修改。
+基于以下项目修改：
+https://github.com/leeyoshinari/karaoke
